@@ -1,5 +1,9 @@
 # CSS 资源大全中文版
 
+> 原文：[CSS 资源大全中文版 ](https://github.com/jobbole/awesome-css-cn)
+
+> 作者：[jobbole](https://github.com/jobbole)
+
 我想很多程序员应该记得 GitHub 上有一个 Awesome：XXX 系列的资源整理。[awesome-css](https://github.com/sotayamashita/awesome-css) 是 sotayamashita 发起维护的 CSS 资源列表，内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯、播客、演讲视频、大网站的 CSS 开发经验等等。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
